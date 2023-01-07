@@ -1,6 +1,6 @@
 # mikaelfilo-exchange Project
 Exchange currency website
 
-Recipe application with custom recipe uploads.
+Exchange currency website, with live data and exact date-time.
 
 Check online at: https://mikaelfilo-exchange.netlify.app/
